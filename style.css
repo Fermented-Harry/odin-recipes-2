@@ -1,0 +1,14 @@
+* {
+    background-color: bisque;
+    color: black;
+}
+
+.back.title {
+    background-color: bisque;
+    color: black;
+}
+
+.title {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
